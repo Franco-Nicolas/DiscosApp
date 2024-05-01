@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "AplicacionDiscos\Presentacion.csproj", "{E218BA73-1F51-4CD6-BCC3-AF935C618C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{1C87A6EE-04B2-484E-BFFA-CAB2A6F05653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{D84331E6-7FE9-47D6-B824-101245649485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E218BA73-1F51-4CD6-BCC3-AF935C618C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E218BA73-1F51-4CD6-BCC3-AF935C618C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E218BA73-1F51-4CD6-BCC3-AF935C618C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E218BA73-1F51-4CD6-BCC3-AF935C618C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C87A6EE-04B2-484E-BFFA-CAB2A6F05653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C87A6EE-04B2-484E-BFFA-CAB2A6F05653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C87A6EE-04B2-484E-BFFA-CAB2A6F05653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C87A6EE-04B2-484E-BFFA-CAB2A6F05653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84331E6-7FE9-47D6-B824-101245649485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84331E6-7FE9-47D6-B824-101245649485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84331E6-7FE9-47D6-B824-101245649485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84331E6-7FE9-47D6-B824-101245649485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC7E1AA-8919-4EEE-8F52-320AC93D8162}
+	EndGlobalSection
+EndGlobal
